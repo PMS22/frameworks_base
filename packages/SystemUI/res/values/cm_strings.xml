@@ -37,6 +37,11 @@
 
     <!-- Screenshot delete toast -->
     <string name="delete_screenshot_toast">Screenshot Deleted</string>
+  
+    <!-- App circle sidebar -->
+    <string name="app_float_maximize_item_title">Maximize</string>
+    <string name="app_float_item_title">Float view</string>
+    <string name="app_stop_item_title">Kill app</string>
 
     <!-- Path data for portrait battery -->
     <string name="battery_portrait_path_full" translatable="false">M 5 2 H 19 V 21 H 5 V 2 Z</string>
